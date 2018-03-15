@@ -1,0 +1,11 @@
+{
+  "name": "to-do",
+  "private": false,
+  "version": "0.0.1",
+  "branch": "master",
+  "homepage": "https://github.com/solus-impar/to-do",
+  "license": "BSD 3-Clause",
+  "scripts": {
+    "test": "true"
+  }
+}
