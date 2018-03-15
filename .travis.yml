@@ -1,4 +1,4 @@
-# https://travis-ci.org/solus-impar/to-do
+# https://travis-ci.org/solus-impar/planner
 language: node_js
 node_js:
     - 9

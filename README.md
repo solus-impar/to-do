@@ -1,6 +1,6 @@
-# to-do
-[![Build Status][badge-build]](https://travis-ci.org/solus-impar/to-do)
+# planner
+[![Build Status][badge-build]](https://travis-ci.org/solus-impar/planner)
 
 A to-do list application.
 
-[badge-build]: https://travis-ci.org/solus-impar/to-do.png
+[badge-build]: https://travis-ci.org/solus-impar/planner.png

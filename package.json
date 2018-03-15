@@ -1,9 +1,9 @@
 {
-  "name": "to-do",
+  "name": "planner",
   "private": false,
   "version": "0.0.1",
   "branch": "master",
-  "homepage": "https://github.com/solus-impar/to-do",
+  "homepage": "https://github.com/solus-impar/planner",
   "license": "BSD-3-Clause",
   "scripts": {
     "build": "webpack",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/solus-impar/to-do.git"
+    "url": "https://github.com/solus-impar/planner.git"
   },
   "dependencies": {
     "react": "^16.2.0",
