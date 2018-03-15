@@ -3,4 +3,4 @@
 
 A to-do list application.
 
-[badge-build]: https://travis-ci.org/solus-impar/todo.png
+[badge-build]: https://travis-ci.org/solus-impar/to-do.png
