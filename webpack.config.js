@@ -5,12 +5,12 @@ module.exports = {
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist')
-  } 
+  }, 
   module: {
     rules: [
       { test: /\.js$/, exclude: /node_modules/,
-        uses: [ 'babel-loader', 'eslint-loader' ] },
+        use: [ 'babel-loader', 'eslint-loader' ] },
       { test: /\.scss$/, loader: 'sass-loader'}
     ]
-  },
+  }
 };
